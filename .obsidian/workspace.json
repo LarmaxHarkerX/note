@@ -11,14 +11,14 @@
             "id": "ba8aa349033edd82",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "TEST/1.MARKDOWN TEST.md",
-                "mode": "source",
-                "source": false
+                "aFile": "assets/Pasted.md",
+                "bFile": "assets/Pasted.md",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "1.MARKDOWN TEST"
+              "icon": "diff",
+              "title": "Diff: Pasted"
             }
           },
           {
@@ -27,16 +27,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TEST/1.MARKDOWN TEST.md",
+                "file": "kill the art/排版/不错实验室 从零开始的平面设计/1.点线面/1.基础知识.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1.MARKDOWN TEST"
+              "title": "1.基础知识"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -157,13 +156,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TEST/1.MARKDOWN TEST.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "1.MARKDOWN TEST 的大纲"
+              "title": "大纲"
             }
           },
           {
@@ -196,26 +194,27 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0ea26de55ba0d53f",
+  "active": "ba8aa349033edd82",
   "lastOpenFiles": [
+    "kill the art/排版/不错实验室 从零开始的平面设计/0.声明.md",
+    "kill the art/排版/不错实验室 从零开始的平面设计/assets/Pasted image 20250114203832.png",
+    "kill the art/排版/不错实验室 从零开始的平面设计/1.点线面/1.基础知识.md",
+    "kill the art/排版/不错实验室 从零开始的平面设计/1.点线面/assets/Pasted image 20250114212132.png",
+    "kill the art/排版/不错实验室 从零开始的平面设计/1.点线面/assets/Pasted image 20250114205035.png",
+    "assets/Pasted.md",
+    "assets",
     "kill the computer science/0.C/test.md",
     "TEST/1.MARKDOWN TEST.md",
     "LICENSE",
-    "kill the art/排版/不错实验室 从零开始的平面设计/assets/Pasted image 20250114203832.png",
-    "kill the art/排版/不错实验室 从零开始的平面设计/1.点线面/1.基础知识.md",
     "kill the computer science/人人都能学Python",
-    "kill the art/排版/不错实验室 从零开始的平面设计/0.声明.md",
     "kill the computer science/5.python",
     "kill the art/排版/不错实验室 从零开始的平面设计/1.点线面/assets/第一节案例.ai",
     "kill the art/排版/不错实验室 从零开始的平面设计/1.点线面/assets/~ai-e854e800-0a84-42bc-8f07-8825307d0114_.tmp",
-    "kill the art/排版/不错实验室 从零开始的平面设计/1.点线面/assets/Pasted image 20250114212132.png",
-    "kill the art/排版/不错实验室 从零开始的平面设计/1.点线面/assets/Pasted image 20250114205035.png",
     "kill the art/排版/不错实验室 从零开始的平面设计/1.点线面/assets",
     "kill the art/排版/不错实验室 从零开始的平面设计/1.点线面",
     "kill the art/排版/不错实验室 从零开始的平面设计/assets",
     "kill the art/排版/不错实验室 从零开始的平面设计",
     "kill the art/排版/未命名.md",
-    "kill the art/排版",
     "assets/Pasted image 20250113112004.png",
     "Excalidraw/Drawing 2025-01-12 23.02.13.excalidraw.md",
     "未命名看板.md",
