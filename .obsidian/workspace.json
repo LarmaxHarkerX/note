@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "test.md",
+                "file": "TEST/1.MARKDOWN TEST.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "test"
+              "title": "1.MARKDOWN TEST"
             }
           }
         ],
@@ -157,13 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "test.md",
+                "file": "TEST/1.MARKDOWN TEST.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "test 的大纲"
+              "title": "1.MARKDOWN TEST 的大纲"
             }
           },
           {
@@ -198,8 +198,8 @@
   },
   "active": "0ea26de55ba0d53f",
   "lastOpenFiles": [
+    "kill the computer science/0.C/test.md",
     "TEST/1.MARKDOWN TEST.md",
-    "test.md",
     "LICENSE",
     "kill the art/排版/不错实验室 从零开始的平面设计/assets/Pasted image 20250114203832.png",
     "kill the art/排版/不错实验室 从零开始的平面设计/1.点线面/1.基础知识.md",
