@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "1.MARKDOWN TEST"
             }
+          },
+          {
+            "id": "23d7cec5b4e6f5d4",
+            "type": "leaf",
+            "state": {
+              "type": "split-diff-view",
+              "state": {
+                "aFile": ".obsidian/workspace.json",
+                "bFile": ".obsidian/workspace.json",
+                "aRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: workspace.json"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -128,10 +143,12 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-tags",
-              "title": "Tags"
+              "title": "标签"
             }
           },
           {
@@ -140,19 +157,30 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1.MARKDOWN TEST.md"
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "1.MARKDOWN TEST 的大纲"
+              "title": "大纲"
+            }
+          },
+          {
+            "id": "05fe2e7d5d3793b0",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -167,7 +195,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d25f8ab0751d2fcb",
+  "active": "23d7cec5b4e6f5d4",
   "lastOpenFiles": [
     "LICENSE",
     "kill the art/排版/不错实验室 从零开始的平面设计/assets/Pasted image 20250114203832.png",
