@@ -11,14 +11,14 @@
             "id": "ba8aa349033edd82",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "assets/Pasted.md",
-                "bFile": "assets/Pasted.md",
-                "aRef": ""
+                "file": "kill the art/排版/不错实验室 从零开始的平面设计/0.声明.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: Pasted"
+              "icon": "lucide-file",
+              "title": "0.声明"
             }
           },
           {
@@ -156,12 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "kill the art/排版/不错实验室 从零开始的平面设计/0.声明.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "大纲"
+              "title": "0.声明 的大纲"
             }
           },
           {
@@ -196,10 +197,10 @@
   },
   "active": "ba8aa349033edd82",
   "lastOpenFiles": [
-    "kill the art/排版/不错实验室 从零开始的平面设计/0.声明.md",
     "kill the art/排版/不错实验室 从零开始的平面设计/assets/Pasted image 20250114203832.png",
     "kill the art/排版/不错实验室 从零开始的平面设计/1.点线面/1.基础知识.md",
     "kill the art/排版/不错实验室 从零开始的平面设计/1.点线面/assets/Pasted image 20250114212132.png",
+    "kill the art/排版/不错实验室 从零开始的平面设计/0.声明.md",
     "kill the art/排版/不错实验室 从零开始的平面设计/1.点线面/assets/Pasted image 20250114205035.png",
     "assets/Pasted.md",
     "assets",
