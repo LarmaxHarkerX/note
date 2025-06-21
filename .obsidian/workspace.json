@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "6b80d69f246b3505",
+        "id": "7e30b207a9db31b4",
         "type": "tabs",
         "children": [
           {
-            "id": "d25f8ab0751d2fcb",
+            "id": "ba8aa349033edd82",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -22,17 +22,17 @@
             }
           },
           {
-            "id": "23d7cec5b4e6f5d4",
+            "id": "0ea26de55ba0d53f",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": ".obsidian/workspace.json",
-                "bFile": ".obsidian/workspace.json",
-                "aRef": ""
+                "file": "test.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: workspace.json"
+              "icon": "lucide-file",
+              "title": "test"
             }
           }
         ],
@@ -157,12 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "test.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "大纲"
+              "title": "test 的大纲"
             }
           },
           {
@@ -195,8 +196,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "23d7cec5b4e6f5d4",
+  "active": "0ea26de55ba0d53f",
   "lastOpenFiles": [
+    "TEST/1.MARKDOWN TEST.md",
+    "test.md",
     "LICENSE",
     "kill the art/排版/不错实验室 从零开始的平面设计/assets/Pasted image 20250114203832.png",
     "kill the art/排版/不错实验室 从零开始的平面设计/1.点线面/1.基础知识.md",
@@ -210,11 +213,9 @@
     "kill the art/排版/不错实验室 从零开始的平面设计/1.点线面/assets",
     "kill the art/排版/不错实验室 从零开始的平面设计/1.点线面",
     "kill the art/排版/不错实验室 从零开始的平面设计/assets",
-    "TEST/1.MARKDOWN TEST.md",
     "kill the art/排版/不错实验室 从零开始的平面设计",
     "kill the art/排版/未命名.md",
     "kill the art/排版",
-    "kill the art/blender",
     "assets/Pasted image 20250113112004.png",
     "Excalidraw/Drawing 2025-01-12 23.02.13.excalidraw.md",
     "未命名看板.md",
