@@ -8,34 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ba8aa349033edd82",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TEST/1.MARKDOWN TEST.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "1.MARKDOWN TEST"
-            }
-          },
-          {
-            "id": "7be0c7c8f1c6d6f0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TEST/1.MARKDOWN TEST.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "1.MARKDOWN TEST"
-            }
-          },
-          {
             "id": "93ca806fd7a4eea6",
             "type": "leaf",
             "state": {
@@ -49,8 +21,7 @@
               "title": "1.MARKDOWN TEST"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
