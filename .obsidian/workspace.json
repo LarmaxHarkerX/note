@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TEST/1.MARKDOWN TEST.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1.MARKDOWN TEST"
+              "title": "README"
             }
           }
         ]
@@ -183,8 +183,9 @@
   },
   "active": "93ca806fd7a4eea6",
   "lastOpenFiles": [
-    "kill the math/1.预备课程/数学基础/1.数学基础.md",
     "TEST/1.MARKDOWN TEST.md",
+    "README.md",
+    "kill the math/1.预备课程/数学基础/1.数学基础.md",
     "kill the math/1.预备课程/三角函数",
     "kill the math/1.预备课程/数学基础/A.声明.md",
     "kill the math/1.预备课程/数学基础/一.正负数.md",
