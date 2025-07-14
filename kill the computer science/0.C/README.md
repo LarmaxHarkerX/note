@@ -1,1 +1,1 @@
-主要学习的是FREECODECAMP的教程
+主要学习的是FREECODECAMP的教程，以及参考runoob的教程。笔记也会交给豆包等LLM进行查漏补缺。
