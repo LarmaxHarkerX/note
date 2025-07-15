@@ -4,21 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "7e30b207a9db31b4",
+        "id": "e58f546b75d0e8c8",
         "type": "tabs",
         "children": [
           {
-            "id": "93ca806fd7a4eea6",
+            "id": "448349f47790e63a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "kill the math/README.md",
-                "mode": "source",
-                "source": false
+                "file": "画板测试.md"
               },
-              "icon": "lucide-file",
-              "title": "README"
+              "icon": "excalidraw-icon",
+              "title": "画板测试"
             }
           }
         ]
@@ -189,21 +187,49 @@
       "command-palette:打开命令面板": false,
       "obsidian-kanban:创建新看板": false,
       "obsidian-excalidraw-plugin:新建绘图文件": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "excalidraw-cn:Create New Excalidraw File": false,
+      "card-note:Search Notes": false
     }
   },
-  "active": "93ca806fd7a4eea6",
+  "active": "3db721142c5dded9",
   "lastOpenFiles": [
-    "kill the math/assets/测试画板.svg",
+    "excalidraw 25-07-16 01.17.10.ex",
+    "画板测试.md",
+    "excalidraw 25-07-16 01.05.36.ex",
+    "excalidraw 25-07-16 01.14.49.ex",
+    "kill the computer science/5.python/README.md",
+    "Excalidraw/Scripts/Downloaded/Reset LaTeX Size.svg",
+    "Excalidraw/Scripts/Downloaded/Reset LaTeX Size.md",
+    "Excalidraw/Scripts/Downloaded/Elbow connectors.md",
+    "Excalidraw/Scripts/Downloaded/Grid Selected Images.md",
     "TEST/测试画板.md",
+    "excalidraw 25-07-16 01.05.13.ex",
+    "Excalidraw/Scripts/Downloaded/Repeat Elements.svg",
+    "Excalidraw/Scripts/Downloaded/Repeat Elements.md",
+    "Excalidraw/Scripts/Downloaded/Relative Font Size Cycle.svg",
+    "Excalidraw/Scripts/Downloaded/Relative Font Size Cycle.md",
+    "Excalidraw/Scripts/Downloaded/Palette loader.svg",
+    "Excalidraw/Scripts/Downloaded/Palette loader.md",
+    "Excalidraw/Scripts/Downloaded/Normalize Selected Arrows.svg",
+    "Excalidraw/Scripts/Downloaded/Normalize Selected Arrows.md",
+    "Excalidraw/Scripts/Downloaded/Grid Selected Images.svg",
+    "Excalidraw/Scripts/Downloaded/Elbow connectors.svg",
+    "Excalidraw/Scripts/Downloaded/Custom Zoom.svg",
+    "Excalidraw/Scripts/Downloaded/Custom Zoom.md",
+    "Excalidraw/Scripts/Downloaded/Crop Vintage Mask.svg",
+    "Excalidraw/Scripts/Downloaded/Crop Vintage Mask.md",
+    "Excalidraw/Scripts/Downloaded/Boolean Operations.svg",
+    "Excalidraw/Scripts/Downloaded/Boolean Operations.md",
+    "Excalidraw/Scripts/Downloaded/Auto Layout.md",
+    "Excalidraw/Scripts/Downloaded",
+    "Excalidraw/Scripts",
+    "Excalidraw",
     "kill the math/README.md",
-    "kill the math/assets/Pasted image 20250716001557.png",
     "kill the math/assets",
     "kill the computer science/3.计算机系统/README.md",
-    "kill the computer science/5.python/README.md",
     "kill the math/4.概率论与数理统计/README.md",
     "kill the math/3.线性代数/README.md",
-    "TEST/Drawing 2025-07-16 00.00.16.excalidraw.svg",
     "TEST/未命名看板.md",
     "TEST/未命名.canvas",
     "TEST/1.MARKDOWN TEST.md",
@@ -213,31 +239,7 @@
     "kill the math/2.高等数学/README.md",
     "kill the math/1.预备课程/数学基础/README.md",
     "kill the computer science/4.计算机网络/README.md",
-    "kill the computer science/2.计算机架构与组成/README.md",
-    "kill the computer science/1.算法与数据结构/README.md",
-    "README.md",
-    "kill the computer science/0.C/README.md",
-    "kill the computer science/0.C/3.打印操作.md",
-    "kill the computer science/0.C/2.文件基础结构.md",
-    "copilot-custom-prompts/Rewrite as tweet thread.md",
-    "copilot-custom-prompts/Rewrite as tweet.md",
-    "copilot-custom-prompts/Remove URLs.md",
-    "copilot-custom-prompts/Generate glossary.md",
-    "copilot-custom-prompts/Generate table of contents.md",
-    "copilot-custom-prompts/Make longer.md",
     "copilot-custom-prompts",
-    "kill the math/assets/~7X_XJHO8FS514J5ADX09ZF.png",
-    "kill the math/1.预备课程/三角函数",
-    "kill the math/1.预备课程/数学基础",
-    "Excalidraw",
-    "kill the art/排版/不错实验室 从零开始的平面设计/assets/Pasted image 20250114203832.png",
-    "kill the art/排版/不错实验室 从零开始的平面设计/1.点线面/assets/Pasted image 20250114212132.png",
-    "kill the art/排版/不错实验室 从零开始的平面设计/1.点线面/assets/Pasted image 20250114205035.png",
-    "assets",
-    "LICENSE",
-    "kill the computer science/人人都能学Python",
-    "kill the computer science/5.python",
-    "kill the art/排版/不错实验室 从零开始的平面设计/1.点线面/assets/第一节案例.ai",
-    "assets/Pasted image 20250113112004.png"
+    "kill the math/1.预备课程/三角函数"
   ]
 }

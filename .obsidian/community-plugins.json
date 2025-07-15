@@ -2,11 +2,14 @@
   "obsidian-kanban",
   "obsidian-icon-folder",
   "obsidian-mind-map",
-  "obsidian-excalidraw-plugin",
   "obsidian-git",
   "obsidian-tikzjax",
   "tailwind-snippet",
   "editing-toolbar",
   "table-editor-obsidian",
-  "obsidian-emoji-toolbar"
+  "obsidian-emoji-toolbar",
+  "excalidraw-cn",
+  "card-note",
+  "obsidian-math-plus",
+  "obsidian-excalidraw-plugin"
 ]
