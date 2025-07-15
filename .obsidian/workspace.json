@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "TEST/1.MARKDOWN TEST.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "1.MARKDOWN TEST"
             }
           }
         ]
@@ -184,6 +184,17 @@
   },
   "active": "93ca806fd7a4eea6",
   "lastOpenFiles": [
+    "kill the math/4.概率论与数理统计/README.md",
+    "kill the math/3.线性代数/README.md",
+    "kill the math/2.高等数学/README.md",
+    "kill the math/1.预备课程/数学基础/README.md",
+    "kill the math/1.预备课程/三角函数/README.md",
+    "kill the computer science/5.python/README.md",
+    "kill the computer science/4.计算机网络/README.md",
+    "kill the computer science/3.计算机系统/README.md",
+    "kill the computer science/2.计算机架构与组成/README.md",
+    "kill the computer science/1.算法与数据结构/README.md",
+    "README.md",
     "kill the computer science/0.C/README.md",
     "kill the computer science/0.C/4.数据类型与变量引用.md",
     "kill the computer science/0.C/3.打印操作.md",
@@ -199,23 +210,12 @@
     "copilot-custom-prompts/Explain like I am 5.md",
     "copilot-custom-prompts/Simplify.md",
     "copilot-custom-prompts/Summarize.md",
-    "copilot-custom-prompts/Translate to Chinese.md",
-    "copilot-custom-prompts/Fix grammar and spelling.md",
     "copilot-custom-prompts",
-    "kill the math/README.md",
-    "kill the math/1.预备课程/数学基础/1.数学基础.md",
     "kill the math/assets/~7X_XJHO8FS514J5ADX09ZF.png",
     "kill the math/assets",
-    "kill the computer science/0.C/1.安装.md",
-    "TEST/1.MARKDOWN TEST.md",
-    "README.md",
-    "kill the math/1.预备课程/数学基础/A.声明.md",
     "kill the math/1.预备课程/三角函数",
-    "kill the math/1.预备课程/数学基础/一.正负数.md",
     "kill the math/1.预备课程/数学基础",
-    "Excalidraw/Drawing 2025-06-22 13.42.38.excalidraw.md",
     "Excalidraw",
-    "未命名看板.md",
     "kill the art/排版/不错实验室 从零开始的平面设计/assets/Pasted image 20250114203832.png",
     "kill the art/排版/不错实验室 从零开始的平面设计/1.点线面/assets/Pasted image 20250114212132.png",
     "kill the art/排版/不错实验室 从零开始的平面设计/1.点线面/assets/Pasted image 20250114205035.png",
