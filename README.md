@@ -1,1 +1,13 @@
-<div class="relative overflow-hidden rounded-2xl border-2 border-blue-200 shadow-lg transition-all duration-300 hover:shadow-xl md:p-8 p-6 bg-gradient-to-br from-blue-50 to-indigo-50"> <!-- 装饰性边框元素 --> <div class="absolute -top-1 -left-1 w-10 h-10 border-t-2 border-l-2 border-blue-500 rounded-br-lg"></div> <div class="absolute -bottom-1 -right-1 w-10 h-10 border-b-2 border-r-2 border-blue-500 rounded-tl-lg"></div> <div class="flex flex-col sm:flex-row items-start sm:items-center gap-3 mb-6"> <span class="text-3xl">👋</span> <h1 class="text-2xl sm:text-3xl font-bold text-gray-800">HI 大家好，我是 LARMAX！</h1> </div> <div class="text-gray-700 space-y-4"> <p class="flex items-start gap-3"> <span class="text-xl mt-0.5">📝</span> 这是我的 <span class="font-semibold text-blue-600">Obsidian 博客项目</span>，主要用来记录： </p> <ul class="list-disc pl-12 space-y-2"> <li>学习过程中的大部分内容 📚</li> <li>一些方面的使用心得 💡</li> </ul> <p class="flex items-start gap-3"> <span class="text-xl mt-0.5">🍲</span> 总之就是一个大杂烩~ 不过需要注意： </p> <p class="pl-12 mt-1 text-amber-600 font-medium flex items-center gap-2"> <span>⚠️</span> 大多数情况下可能会出现乱码，建议同步到 Obsidian 客户端进行查看哦！ </p> </div> </div>
+
+👋 **HI 大家好，我是 LARMAX！**  
+
+
+📝 这是我的 **Obsidian 博客项目**，主要用来记录：  
+- 学习过程中的大部分内容 📚  
+- 一些方面的使用心得 💡  
+
+
+🍲 总之就是一个大杂烩~ 不过需要注意：  
+
+> ⚠️ **大多数情况下可能会出现乱码，建议同步到 Obsidian 客户端进行查看哦！**
+
