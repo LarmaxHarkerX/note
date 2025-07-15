@@ -11,12 +11,14 @@
             "id": "448349f47790e63a",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "TEST/画板测试.md"
+                "file": "kill the computer science/0.C/4.数据类型与变量引用.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "画板测试"
+              "icon": "lucide-file",
+              "title": "4.数据类型与变量引用"
             }
           }
         ]
@@ -192,7 +194,7 @@
       "card-note:Search Notes": false
     }
   },
-  "active": "3db721142c5dded9",
+  "active": "448349f47790e63a",
   "lastOpenFiles": [
     "TEST/画板测试.md",
     "excalidraw 25-07-16 01.17.10.ex",
