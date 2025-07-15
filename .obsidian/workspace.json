@@ -13,7 +13,7 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "画板测试.md"
+                "file": "TEST/画板测试.md"
               },
               "icon": "excalidraw-icon",
               "title": "画板测试"
@@ -194,8 +194,8 @@
   },
   "active": "3db721142c5dded9",
   "lastOpenFiles": [
+    "TEST/画板测试.md",
     "excalidraw 25-07-16 01.17.10.ex",
-    "画板测试.md",
     "excalidraw 25-07-16 01.05.36.ex",
     "excalidraw 25-07-16 01.14.49.ex",
     "kill the computer science/5.python/README.md",
