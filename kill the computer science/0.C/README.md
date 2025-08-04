@@ -1,1 +1,2 @@
 主要学习的是FREECODECAMP的教程，以及参考runoob和stack overflow等网站的教程。笔记也会交给豆包等LLM进行查漏补缺。
+写下来发现freecodecamp的那个c的教程其实漏洞挺多的。但入门也算是够了，就是会走点弯路。
