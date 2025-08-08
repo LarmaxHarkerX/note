@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "kill the computer science/0.C/9.结构体.md",
+                "file": "kill the computer science/0.C/README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "9.结构体"
+              "title": "README"
             }
           }
         ]
@@ -196,8 +196,9 @@
   },
   "active": "a25396c98acb444b",
   "lastOpenFiles": [
-    "kill the computer science/0.C/8.循环与条件判断.md",
+    "kill the computer science/0.C/10.嵌套循环与数组拓展.md",
     "kill the computer science/0.C/9.结构体.md",
+    "kill the computer science/0.C/8.循环与条件判断.md",
     "未命名",
     "kill the computer science/0.C/README.md",
     "kill the computer science/0.C/1.安装.md",
@@ -236,7 +237,6 @@
     "Excalidraw/Scripts/Downloaded/Crop Vintage Mask.md",
     "Excalidraw/Scripts/Downloaded/Boolean Operations.svg",
     "Excalidraw/Scripts/Downloaded/Boolean Operations.md",
-    "Excalidraw/Scripts/Downloaded/Auto Layout.md",
     "Excalidraw/Scripts/Downloaded",
     "Excalidraw/Scripts",
     "Excalidraw",
