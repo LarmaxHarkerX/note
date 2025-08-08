@@ -25,12 +25,14 @@
             "id": "37d61c5231d87739",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "kill the math/1.预备课程/代数/代数1.md"
+                "file": "kill the math/README.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "代数1"
+              "icon": "lucide-file",
+              "title": "README"
             }
           }
         ],
@@ -209,14 +211,16 @@
   },
   "active": "37d61c5231d87739",
   "lastOpenFiles": [
+    "kill the math/1.预备课程/代数/代数1.md",
+    "kill the math/1.预备课程/代数/README.md",
+    "kill the math/1.预备课程/代数/assets/Pasted Image 20250808222527_590.png",
+    "kill the math/1.预备课程/代数/assets/Pasted Image 20250808222219_874.png",
     "kill the math/1.预备课程/代数/assets/Pasted Image 20250808221645_623.png",
     "kill the math/1.预备课程/代数/assets/Pasted Image 20250808221420_695.png",
     "kill the math/1.预备课程/代数/assets/Pasted Image 20250808220742_778.png",
     "kill the math/1.预备课程/代数/assets/Pasted Image 20250808220622_330.png",
     "kill the math/1.预备课程/代数/assets/Pasted Image 20250808220301_227.png",
     "kill the math/1.预备课程/代数/assets",
-    "kill the math/1.预备课程/代数/README.md",
-    "kill the math/1.预备课程/代数/代数1.md",
     "TEST/README.md",
     "TEST/画板测试.md",
     "TEST/1.MARKDOWN TEST.md",
@@ -251,9 +255,6 @@
     "excalidraw 25-07-16 01.05.13.ex",
     "Excalidraw/Scripts/Downloaded/Repeat Elements.svg",
     "Excalidraw/Scripts/Downloaded/Relative Font Size Cycle.svg",
-    "Excalidraw/Scripts/Downloaded/Palette loader.svg",
-    "Excalidraw/Scripts/Downloaded/Normalize Selected Arrows.svg",
-    "Excalidraw/Scripts/Downloaded/Grid Selected Images.svg",
     "Excalidraw/Scripts/Downloaded",
     "Excalidraw/Scripts",
     "kill the math/assets",
