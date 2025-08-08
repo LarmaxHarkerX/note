@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "kill the computer science/README.md",
+                "file": "kill the math/README.md",
                 "mode": "source",
                 "source": false
               },
@@ -194,8 +194,9 @@
       "card-note:Search Notes": false
     }
   },
-  "active": "3db721142c5dded9",
+  "active": "a25396c98acb444b",
   "lastOpenFiles": [
+    "kill the computer science/README.md",
     "kill the computer science/1.算法与数据结构/README.md",
     "kill the math/1.预备课程/数学基础/README.md",
     "TEST/README.md",
@@ -218,7 +219,6 @@
     "excalidraw 25-07-16 01.17.10.ex",
     "excalidraw 25-07-16 01.05.36.ex",
     "excalidraw 25-07-16 01.14.49.ex",
-    "kill the computer science/README.md",
     "Excalidraw/Scripts/Downloaded/Reset LaTeX Size.svg",
     "Excalidraw/Scripts/Downloaded/Reset LaTeX Size.md",
     "Excalidraw/Scripts/Downloaded/Elbow connectors.md",
